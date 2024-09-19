@@ -1,0 +1,302 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.5f1 (9674261d40ee) revision 9860134'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 8142 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+Z:/MY work/VRsocial
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+61048
+Successfully changed project path to: Z:/MY work/VRsocial
+Z:/MY work/VRsocial
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [31324] Host "[IP] 192.168.0.169 [Port] 0 [Flags] 2 [Guid] 2417394231 [EditorId] 2417394231 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-TAG5E5U) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [31324] Host "[IP] 192.168.0.169 [Port] 0 [Flags] 2 [Guid] 2417394231 [EditorId] 2417394231 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-TAG5E5U) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 4192.83 ms, found 27 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.5f1 (9674261d40ee)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path Z:/MY work/VRsocial/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     4004 MB
+    Driver:   31.0.15.5222
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56152
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.030895 seconds.
+- Loaded All Assemblies, in  0.626 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 3363 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.945 seconds
+Domain Reload Profiling: 4567ms
+	BeginReloadAssembly (141ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (98ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (117ms)
+	LoadAllAssembliesAndSetupDomain (244ms)
+		LoadAssemblies (134ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (226ms)
+			TypeCache.Refresh (224ms)
+				TypeCache.ScanAssembly (203ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (3946ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3863ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3543ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (6ms)
+			ProcessInitializeOnLoadAttributes (140ms)
+			ProcessInitializeOnLoadMethodAttributes (168ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image Z:\MY work\VRsocial\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image Z:\MY work\VRsocial\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  9.715 seconds
+Refreshing native plugins compatible for Editor in 33.04 ms, found 27 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.073 seconds
+Domain Reload Profiling: 10783ms
+	BeginReloadAssembly (278ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (76ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (69ms)
+	LoadAllAssembliesAndSetupDomain (9272ms)
+		LoadAssemblies (8923ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (527ms)
+			TypeCache.Refresh (497ms)
+				TypeCache.ScanAssembly (471ms)
+			ScanForSourceGeneratedMonoScriptInfo (24ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1074ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (866ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (39ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (92ms)
+			ProcessInitializeOnLoadAttributes (684ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (19ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 31.54 ms, found 27 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3566 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 130 unused Assets / (111.4 KB). Loaded Objects now: 3955.
+Memory consumption went from 213.9 MB to 213.8 MB.
+Total: 25.078700 ms (FindLiveObjects: 0.580400 ms CreateObjectMapping: 0.191000 ms MarkObjects: 19.531800 ms  DeleteObjects: 4.768000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/IMetadataObserver.cs:  -> 324c9ce929d1a8c865d9367b18fea739
+  custom:scripting/monoscript/fileName/LocalSpatialAudioEngine.cs:  -> 89e5b736605d2a235de193a16e52efa9
+  custom:scripting/monoscript/fileName/TextureManagerYUV.cs:  -> 63a3870f2eeaf4b663d22771bf2bbc5f
+  custom:scripting/monoscript/fileName/AgoraRtcEngine.cs:  -> fd1bd1841d3af19bab160317546c26a7
+  custom:scripting/monoscript/fileName/IAudioPcmFrameSink.cs:  -> dbe1fbe32653ddc1e776eb5d5fd3c4f4
+  custom:scripting/monoscript/fileName/MediaPlayer.cs:  -> eed806c107f0df0f5fc97bc9c4afd7a3
+  custom:scripting/monoscript/fileName/MusicContentCenter.cs:  -> 75390e9089cbe848abe845896a303aa5
+  custom:scripting/monoscript/fileName/MediaPlayerImpl.cs:  -> eaa193fe223fe841acdd23312f04951a
+  custom:scripting/monoscript/fileName/MusicContentCenterImpl.cs:  -> 9a329c55aec724304ea44c543051e7b7
+  custom:scripting/monoscript/fileName/AgoraApiType.cs:  -> 270daf39c3e0948e83af164608080ac5
+  custom:scripting/monoscript/fileName/AudioDeviceManager.cs:  -> eca2b1d4478d1f348c40e1079c77a944
+  custom:scripting/monoscript/fileName/AudioFrameObserverNative.cs:  -> a64f53037aa29f06d1ee4719287f2654
+  custom:scripting/monoscript/fileName/MediaRecorderObserverNative.cs:  -> 612008cdc533926a13de3919fd987350
+  custom:scripting/monoscript/fileName/IVideoFrameMetaInfo.cs:  -> 84d498db7479a0ece5fbdfe313ec9a8b
+  custom:scripting/monoscript/fileName/IRtcEngineEx.cs:  -> 91895c1a8dcd90956bd53d39d9bd8ad7
+  custom:scripting/monoscript/fileName/SpatialAudioEngineImpl.cs:  -> 97f8313cf51e5e53581392e643feba26
+  custom:scripting/monoscript/fileName/AudioPcmFrameSinkNative.cs:  -> f973925d1d870fadf6cc05b6875e7c76
+  custom:scripting/monoscript/fileName/VideoEncodedFrameObserverNative.cs:  -> 5031fd748f7087c39c92ddc5195356fa
+  custom:scripting/monoscript/fileName/IMusicContentCenterEventHandler.cs:  -> dfb8dabe814b78c59f0911cd2e1cc871
+  custom:scripting/monoscript/fileName/IAudioFrameObserver.cs:  -> aa810ad112f5f8c68b0119f72886fc28
+  custom:scripting/monoscript/fileName/IAudioDeviceManager.cs:  -> f90003b04cbf8180f22971024e082b7f
+  custom:scripting/monoscript/fileName/JsonMockWrapper.cs:  -> cfda643a2a4bdf836c84708aa1b88339
+  custom:scripting/monoscript/fileName/AgoraMediaPlayerTypes.cs:  -> 66fa5344f79bd1f259b181ff445927dc
+  custom:scripting/monoscript/fileName/IRtcEngine.cs:  -> 9184fbe90a7c55396adf3fb172fb5bc5
+  custom:scripting/monoscript/fileName/AgoraEventType.cs:  -> a13f003cbcfd5b11534f302342640911
+  custom:scripting/monoscript/fileName/MetaDataObserverNative.cs:  -> 14c86edeefdab91c12b65baef28a745e
+  custom:scripting/monoscript/fileName/IMediaRecorder.cs:  -> 542bb064c5c46bf37704d07edbaef30a
+  custom:scripting/monoscript/fileName/IH265Transcoder.cs:  -> 8cd9a98ccb4babb239e82f771803b676
+  custom:scripting/monoscript/fileName/AgoraRtcEngineEx.cs:  -> a7ea3898e0aa0199193c86118ca76d0d
+  custom:scripting/monoscript/fileName/H265TranscoderObserverNative.cs:  -> 2c388e822508fa8ffd2a90b1a70213f0
+  custom:scripting/monoscript/fileName/ILocalSpatialAudioEngine.cs:  -> 72a4bbbe7dd6a46e116725329ca750d2
+  custom:scripting/monoscript/fileName/VideoSurface.cs:  -> 42eb5342d750c86083886f301757d0ff
+  custom:scripting/monoscript/fileName/AgoraMediaBase.cs:  -> 6d27d799873c4e1520ae491e2d8f110a
+  custom:scripting/monoscript/fileName/RtcEngineEventHandler.cs:  -> 308f0c8a078a3db402976019f4c3a12e
+  custom:scripting/monoscript/fileName/VideoDeviceManagerImpl.cs:  -> 421430b233fe270ef2ee8a1cb5c9a603
+  custom:scripting/monoscript/fileName/AgoraMediaBaseNative.cs:  -> 81dde0b127cac14104e762646a8c1706
+  custom:scripting/precompiled-assembly-types:AgoraRtcSDK:  -> b9a540837993ddf7afb515c26f1c5019
+  custom:scripting/monoscript/fileName/VideoFrameMetaInfo.cs:  -> a2dbcac8dc543b0fe12cc82dd815fe1d
+  custom:scripting/monoscript/fileName/IAudioSpectrumObserver.cs:  -> 50427051e66ba5d1fbe867ad7d719c3b
+  custom:scripting/monoscript/fileName/MediaPlayerCustomDataProviderNative.cs:  -> ee082a8ad133d6c36126882bc22f8fba
+  custom:scripting/monoscript/fileName/IMusicContentCenter.cs:  -> 08ac6961b6ffbe0792db256edb90639c
+  custom:scripting/monoscript/fileName/AgoraUtil.cs:  -> 1f8be32b90c591b3bb685a1c9179dbf6
+  custom:scripting/monoscript/fileName/MediaPlayerCacheManagerImpl.cs:  -> 7a70c9f10dd40c280f06b300f8a4bde2
+  custom:scripting/monoscript/fileName/JsonData.cs:  -> 33cd03fe931b72de0121d85ed32cd820
+  custom:scripting/monoscript/fileName/AgoraGameObject.cs:  -> 26f31c0fc531f2f7f2c47542eb1c8ebb
+  custom:scripting/monoscript/fileName/RtcEngine.cs:  -> db2722d2207b06cff859b95c1068b47b
+  custom:scripting/monoscript/fileName/IMediaRecorderObserver.cs:  -> 85ac66a2f54caae669fe80ecc68ac96e
+  custom:scripting/monoscript/fileName/RtcEngineImpl.cs:  -> c2f3c47f13ce0f031b3f703b62fd2002
+  custom:scripting/monoscript/fileName/H265Transcoder.cs:  -> c955c53ee16b735abcf80974c4a5c4ef
+  custom:scripting/monoscript/fileName/IRtcEngineEventHandler.cs:  -> d0e9705adf2ca745b97d0932e2ba1b28
+  custom:scripting/monoscript/fileName/IVideoDeviceManager.cs:  -> 0307f23b0b0b5d915a90565be9d769a1
+  custom:scripting/monoscript/fileName/AudioSpectrumObserverNative.cs:  -> 8b9e7c440ded677b4703e64a5935a22c
+  custom:scripting/monoscript/fileName/IVideoFrameObserver.cs:  -> 9ea6190f424a00cdc3a2b146472abbd8
+  custom:scripting/monoscript/fileName/AgoraOptional.cs:  -> ed5b2f39d36cb6026ea9ae2526de7490
+  custom:scripting/monoscript/fileName/ObsoleteMethodWarning.cs:  -> c62dfa8310bd1558c531621e1423d7ee
+  custom:scripting/monoscript/fileName/AgoraCallbackObject.cs:  -> 4feb5119a2093a41c818c4a6e7fe2cde
+  custom:scripting/monoscript/fileName/IMusicPlayer.cs:  -> 356e5d1d6a2840936100ac183eafc397
+  custom:scripting/monoscript/fileName/IVideoEncodedFrameObserver.cs:  -> af2dcc8d01a9f24e65ea8bfb698fbed7
+  custom:scripting/monoscript/fileName/TextureManager.cs:  -> f9ccd176891c3a314830bc9600229c20
+  custom:scripting/monoscript/fileName/MediaPlayerSourceObserverNative.cs:  -> 5d05fd4f3b5f35551f90b68ddced372c
+  custom:scripting/monoscript/fileName/MusicPlayerImpl.cs:  -> 1a3db41927cd74ce5aab9afff45c4375
+  custom:scripting/monoscript/fileName/AgoraSpatialAudio.cs:  -> ebaa456afdd6259687b24cef3e032d52
+  custom:scripting/monoscript/fileName/AgoraRtcApiNative.cs:  -> 3f3962d767f80fa64cb957668e8d6845
+  custom:scripting/monoscript/fileName/MediaPlayerSourceObserver.cs:  -> 213fba4f6e9b2786f93871680ec10e1d
+  custom:scripting/monoscript/fileName/MediaRecorderImpl.cs:  -> b8565e45defd3e41a21b9e4d547c9c29
+  custom:scripting/monoscript/fileName/H265TranscoderImpl.cs:  -> 898f344ee76e0e4869839bc07c4d8330
+  custom:scripting/monoscript/fileName/AudioDeviceManagerImpl.cs:  -> 08f3163ab5f06e100108747e8ac4b3ab
+  custom:scripting/monoscript/fileName/IH265TranscoderObserver.cs:  -> 5233036ad6d9627acd447a088743031d
+  custom:scripting/monoscript/fileName/RtcEngineEventHandlerNative.cs:  -> 8e73735416913ebdbdbd5e371502c08b
+  custom:scripting/monoscript/fileName/AgoraLog.cs:  -> 709b410cc35331c250cec638653fa3ec
+  custom:scripting/monoscript/fileName/Base.cs:  -> 4c06e77ce08cd2022f9882b1c0a1bc92
+  custom:scripting/monoscript/fileName/IMediaPlayerSourceObserver.cs:  -> 79cbc1d845b84260f737f205e3f4ce85
+  custom:scripting/monoscript/fileName/JsonException.cs:  -> 795569d19d06c778da8c9d5531f8e760
+  custom:scripting/monoscript/fileName/JsonWriter.cs:  -> 58b6ca79f0359131355b3a71dad0b4f1
+  custom:scripting/monoscript/fileName/MediaRecorderObserver.cs:  -> d9783ac3f979cba9489c2ef3d4a6fd37
+  custom:scripting/monoscript/fileName/AgoraMusicContentCenter.cs:  -> abf29dbd9e05cb8793705e1226281e52
+  custom:scripting/monoscript/fileName/MediaRecorder.cs:  -> e7efe1344bfa7e7ff1e619c035037175
+  custom:scripting/monoscript/fileName/VideoSurfaceYUV.cs:  -> 1cc3726109c3f749de5bd8677ac75b00
+  custom:scripting/monoscript/fileName/AgoraRhythmPlayer.cs:  -> b4622a3989a72e6a62a6fa45c2b7b226
+  custom:scripting/monoscript/fileName/VideoRender.cs:  -> e8feb0f51f4fada1a8a4d9952279fff9
+  custom:scripting/monoscript/fileName/IAudioEncodedFrameObserver.cs:  -> ba9af8dff6c4f78c293a65a4cccbda76
+  custom:scripting/monoscript/fileName/MediaPlayerCacheManager.cs:  -> 6f5ea8d78e1eba38c377a2de5aaf6ec6
+  custom:scripting/monoscript/fileName/MediaPlayerAudioSpectrumObserverNative.cs:  -> d3f43f96a8dc634295089aa8203239d8
+  custom:scripting/monoscript/fileName/IMediaPlayer.cs:  -> fe37f09656d148a00d7faf9091b54b8e
+  custom:scripting/monoscript/fileName/MusicPlayer.cs:  -> 7e15b82ee89b4a9b6a567422e87adfb0
+  custom:scripting/monoscript/fileName/JsonMapper.cs:  -> a11d169ddf687bf344d33787b80d53c7
+  custom:scripting/monoscript/fileName/AudioEncodedFrameObserverNative.cs:  -> d698c97eb87b5e9c74512eef60fc7e51
+  custom:scripting/monoscript/fileName/IMediaPlayerCustomDataProvider.cs:  -> 1d870171d893a1a4c7e5a015c78c86ce
+  custom:scripting/monoscript/fileName/AgoraBase.cs:  -> da0065ef825a9d32df73346b83cca6c9
+  custom:scripting/monoscript/fileName/AgoraCallbackQueue.cs:  -> b3eb6384ce37692a3cc675016e5db856
+  custom:scripting/monoscript/fileName/VideoDeviceManager.cs:  -> a6e4a2e79d7694c98bb8c5cb2a07d3ab
+  custom:scripting/monoscript/fileName/VideoFrameObserverNative.cs:  -> 5812070d9a86bfdd8ee0c0918a15dd77
+  custom:scripting/monoscript/fileName/Lexer.cs:  -> dae17217dc831e153afaed69fd1ddadd
+  custom:scripting/monoscript/fileName/JsonReader.cs:  -> 4a422bf9bc6ac0de0231f49a1a370df7
+  custom:scripting/monoscript/fileName/IMediaPlayerCacheManager.cs:  -> 1bed8063a0745f4397ffeb1fe76d6235
+  custom:scripting/monoscript/fileName/MusicContentCenterEventHandlerNative.cs:  -> 8117cbc1fc9c0e9158c59ec674d9d137
+  custom:scripting/monoscript/fileName/IJsonWrapper.cs:  -> 6188f86f2ae37f430c41b50601f633ba
+========================================================================
+Received Import Request.
+  Time since last request: 48384.599875 seconds.
+  path: Assets/Photon/PhotonVoice/Icons/voice-0032.png
+  artifactKey: Guid(96756fd342e07a64cbe6f2f614cb3e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonVoice/Icons/voice-0032.png using Guid(96756fd342e07a64cbe6f2f614cb3e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d512ffc9aba5310e9395198a5f3abe') in 38.611900 seconds
+Number of updated asset objects reloaded before import = 2
+Number of asset objects unloaded after import = 2
