@@ -36,7 +36,6 @@
 
 The system utilizes Unity’s **OVRTK** VR camera and **Photon PUN** networking for multiplayer functionality. The application features smooth character movement, interactive animations, and optimized environment loading, ensuring seamless user experiences across platforms.
 
-![Character Movement](images/character_movement.png)
 
 ## Future Improvements
 
